@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Decoupled Dev Days"
 email: "info@decoupleddevdays.com"
 description: "Decoupled Dev Days is neat"
-baseurl: "/ddd"
+baseurl: "/zeppelin"
 url: "https://mrjmd.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
